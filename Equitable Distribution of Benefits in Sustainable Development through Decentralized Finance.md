@@ -1,4 +1,4 @@
-# <div align="center">White Paper: Equitable Distribution of Benefits in Sustainable Development through Decentralized Finance </div>
+# <div align="center">Whitepaper: Equitable Distribution of Benefits in Sustainable Development through Decentralized Finance </div>
 <div align="center">Citi Wave, Inc. 
 
 March 8, 2024</div>

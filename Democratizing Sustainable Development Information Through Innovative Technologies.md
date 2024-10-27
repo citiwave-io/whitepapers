@@ -10,11 +10,11 @@ This whitepaper addresses the imperative of equitable distribution of the benefi
 
 The quest for sustainable development has been consistently challenged by discrepancies in the distribution of information and benefits, especially among underserved populations. Existing hurdles such as lengthy PDF reports, legalese in public bills, poorly structured websites, and the proliferation of misleading content on social media have collectively eroded public trust and civic engagement. These barriers are compounded by the slow pace at which digital transformation in governance has been integrated with emerging web3 technologies.
 
-## **Problem Statement**
+## **Problem**
 
 ### **Inaccessible Public Information**
 
-The conventional dissemination of information through long PDF reports and legal documents is not only cumbersome but often incomprehensible to the general public due to high literacy demands. This traditional approach fails to engage a broad audience and limits the participatory aspect of civic processes.
+The conventional dissemination of information through long PDF reports and legal documents is not only cumbersome but often incomprehensible to the general public due to high literacy demands or accessibility standards that have not been tested properly and resolved prior to publishing documents. This traditional approach fails to engage a broad audience equitably and limits the participatory aspect of civic processes.
 
 ### **Fragmented Digital Ecosystems**
 
